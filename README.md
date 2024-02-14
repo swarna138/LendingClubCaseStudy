@@ -44,9 +44,9 @@ The company can utilise this knowledge for its portfolio and risk assessment.
 
 ## Technologies Used
 - pandas - version 2.0.3
-- numpy - version 1.24.3
+- numpy - version 1.24.1
 - seaborn - 0.12.2
-- matplotlib - 3.8.2
+- matplotlib - 3.7.2
 
 <!-- As the libraries versions keep on changing, it is recommended to mention the version of library used in this project -->
 
